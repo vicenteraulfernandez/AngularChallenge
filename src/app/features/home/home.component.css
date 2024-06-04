@@ -1,0 +1,46 @@
+:host {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #87ceeb, #ffffff);
+}
+
+main {
+  padding: 2em;
+  text-align: center;
+}
+
+.center-content {
+  background-color: white;
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+main h2 {
+  color: #4682b4;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+main img {
+  width: 400px; /* Increased width */
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background-color: #4682b4;
+
+  color: white;
+  padding: 1em;
+  text-align: center;
+  box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+  margin: 0;
+  font-size: 1em;
+}

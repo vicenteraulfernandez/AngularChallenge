@@ -1,0 +1,23 @@
+:host {
+  display: block;
+}
+.drawer-container {
+  width: 80%;
+  height: 85vh;
+}
+
+.sidenav-content {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.mat-drawer {
+  width: 300px;
+}
+
+.main-toolbar {
+  background-color: #0927b0;
+  color: aliceblue;
+}
