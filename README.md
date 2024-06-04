@@ -4,7 +4,7 @@ Generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.
 
 ## Development server
 
-Clone the application running the command in your computer D:/FOLDER/: `git clone https://github.com/vicenteraulfernandez/AngularChallenge.git` 
+Clone the application running the command in your computer (Eg: D:/FOLDER/) : `git clone https://github.com/vicenteraulfernandez/AngularChallenge.git` 
 
 ## Development server
 
