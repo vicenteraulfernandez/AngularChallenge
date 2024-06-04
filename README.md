@@ -4,10 +4,10 @@ Generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.
 
 ## Development server
 
-Clone the application running the command `git clone https://github.com/vicenteraulfernandez/AngularChallenge.git` 
+Clone the application running the command in your computer D:/FOLDER/: `git clone https://github.com/vicenteraulfernandez/AngularChallenge.git` 
 
 ## Development server
 
-Run `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Go to the project D:/FOLDER/AngularChallenge/ and run the command: `npm run start`, then navigate to `http://localhost:4200/`. 
 
 
