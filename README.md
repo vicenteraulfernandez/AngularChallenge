@@ -9,10 +9,10 @@ Clone the application running the command in your computer (Eg: D:/FOLDER/) : `g
 
 ## Step2: Getting dependencies.
 
-Run the command `npm install` to get dependencies. 
+Go to the project D:/FOLDER/AngularChallenge/ and run the command `npm install` to get dependencies. 
 
 ## Step3: Run the server.
 
-Go to the project D:/FOLDER/AngularChallenge/ and run the command: `npm run start`, then navigate to `http://localhost:4200/`. 
+In the same folder D:/FOLDER/AngularChallenge/, run the command: `npm run start`, then navigate to `http://localhost:4200/`. 
 
 
